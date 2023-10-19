@@ -1,6 +1,8 @@
 # Silveridge
 G'day. Currently Second-Year Computer Science student at a Top 200 University majoring in Cybersecurity.
 
+IDE Weapon of Choice: [VSCode](https://code.visualstudio.com/)
+
 # Language Experience
 ### Proficient In
 [![My Skills](https://skillicons.dev/icons?i=py,github,java,arduino)](https://skillicons.dev)
