@@ -2,7 +2,7 @@
 G'day. Currently Second-Year Computer Science student at a Top 200 University majoring in Cybersecurity.
 
 # Language Experience
-### Proficient
+### Proficient In
 [![My Skills](https://skillicons.dev/icons?i=py,github,java,arduino)](https://skillicons.dev)
 
 ### Experience In
