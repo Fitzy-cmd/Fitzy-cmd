@@ -13,4 +13,5 @@ G'day. Currently Second-Year Computer Science student at a Top 200 University ma
 
 ### Committed Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silveridge&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 Contrary to the graph, I'm more proficienct in Python than I am C++
