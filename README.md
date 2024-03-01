@@ -1,4 +1,4 @@
-# Silveridge
+# Fitzy-cmd
 G'day. Currently Second-Year Computer Science student at a Top 200 University majoring in Cybersecurity.
 
 IDE Weapon of Choice: [VSCode](https://code.visualstudio.com/)
