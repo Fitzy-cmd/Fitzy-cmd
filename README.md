@@ -14,6 +14,6 @@ IDE Weapon of Choice: [VSCode](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=netlify,cs,cpp)](https://skillicons.dev)
 
 ### Committed Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silveridge&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fitzy-cmd&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Contrary to the graph, I'm more proficienct in Python than I am C++
