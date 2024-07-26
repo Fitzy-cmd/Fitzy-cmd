@@ -14,6 +14,6 @@ IDE Weapon of Choice: [VSCode](https://code.visualstudio.com/)
 [![My Skills](https://skillicons.dev/icons?i=netlify,cs,cpp,react)](https://skillicons.dev)
 
 ### Public Metrics
-![Metrics](https://metrics.lecoq.io/madushadhanushka?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+![Metrics](https://metrics.lecoq.io/Fitzy-cmd?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
 Note that these are just public repositories, my private repositories contain a lot more Java and C++ code but must remain private for the time-being.
