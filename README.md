@@ -13,7 +13,7 @@ IDE Weapon of Choice: [VSCode](https://code.visualstudio.com/)
 ### Used but Rusty
 [![My Skills](https://skillicons.dev/icons?i=netlify,cs,cpp,react)](https://skillicons.dev)
 
-### Committed Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fitzy-cmd&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### Stats
+<img src="https://myreadme.vercel.app/api/embed/Fitzy-cmd?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 Note that these are just public repositories, my private repositories contain a lot more Java and C++ code but must remain private for the time-being.
