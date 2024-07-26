@@ -4,7 +4,7 @@ G'day. Currently Third-Year Computer Science student at a Top 200 University maj
 IDE Weapon of Choice: [VSCode](https://code.visualstudio.com/)
 
 # Featured Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fitzy-cmd&repo=DES)](https://github.com/Fitzy-cmd/DES-Raw-Implementation)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Fitzy-cmd&repo=DES-Raw-Implementation)](https://github.com/Fitzy-cmd/DES-Raw-Implementation)
 
 # Language Experience
 ### Proficient In
