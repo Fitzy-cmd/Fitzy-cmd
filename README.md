@@ -5,13 +5,13 @@ IDE Weapon of Choice: [VSCode](https://code.visualstudio.com/)
 
 # Language Experience
 ### Proficient In
-[![My Skills](https://skillicons.dev/icons?i=py,github,java,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,java,arduino,sketchup)](https://skillicons.dev)
 
 ### Experience In
-[![My Skills](https://skillicons.dev/icons?i=qt,md,js,html,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=qt,md,js,html,css,figma,spring,mysql)](https://skillicons.dev)
 
 ### Used but Rusty
-[![My Skills](https://skillicons.dev/icons?i=netlify,cs,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=netlify,cs,cpp,react)](https://skillicons.dev)
 
 ### Committed Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fitzy-cmd&layout=donut-vertical&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
