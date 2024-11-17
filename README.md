@@ -19,8 +19,8 @@ Note that these are just public repositories
 [![My Skills](https://skillicons.dev/icons?i=py,github,java,arduino,sketchup)](https://skillicons.dev)
 
 ### Experience In
-[![My Skills](https://skillicons.dev/icons?i=qt,md,js,html,css,figma,spring,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=qt,md,js,html,css,figma,spring,mysql,react)](https://skillicons.dev)
 
 ### Used but Rusty
-[![My Skills](https://skillicons.dev/icons?i=netlify,cs,cpp,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=netlify,cs,cpp,docker)](https://skillicons.dev)
 
