@@ -1,5 +1,5 @@
 # Fitzy-cmd
-G'day. Currently Third-Year Computer Science student at a Top 200 University majoring in Cybersecurity.
+G'day
 
 IDE Weapon of Choice: [VSCode](https://code.visualstudio.com/)
 
